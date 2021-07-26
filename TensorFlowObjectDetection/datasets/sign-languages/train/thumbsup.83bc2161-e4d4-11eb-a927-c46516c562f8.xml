@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>thumbsup.83bc2161-e4d4-11eb-a927-c46516c562f8.jpg</filename>
+	<path>C:\TFOD\TFODCourse\Tensorflow\workspace\images\collectedimages\thumbsup\thumbsup.83bc2161-e4d4-11eb-a927-c46516c562f8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>218</ymin>
+			<xmax>399</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
